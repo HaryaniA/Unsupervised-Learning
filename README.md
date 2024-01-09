@@ -83,4 +83,3 @@ Generate scatter plots to visually represent the clustering results.
 
 Feel free to explore the code files for detailed implementation and results. If you encounter any issues or have questions, please refer to the documentation or contact the project contributors.
 
-Happy Clustering!
